@@ -92,7 +92,8 @@ git pull - выкачивает изменения, произошедшие в 
 	release - ветка очередного релиза
 	
 git checkout -b dev 	- создаст ветку с именем dev и переключится в нее
-	
+git checkout master 	- переключение между ветками
+git push --set-upstream origin dev 	- 
 	
 	
 	

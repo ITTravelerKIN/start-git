@@ -88,8 +88,8 @@
 		release - ветка очередного релиза
 	git checkout -b dev 	- создаст ветку с именем dev и переключится в нее
 	git checkout master 	- переключение между ветками
-	git push --set-upstream origin dev 	- 
-	git push -u origin dev - отправит ветку dev на сервер github-а
+	git push --set-upstream origin dev 	- отправит ветку dev на сервер github-а
+	git push -u origin dev - сокращенное написание предыдущей команды
 		origin - указатель на удаленный репозиторий
 	git remote - выводит список всех удаленных репозиториев (серверов)
 	git remote -v выводит ссылки на репозитории
